@@ -16,7 +16,6 @@ The submodules are:
 * [oolong32/learn-basiljs](https://github.com/oolong32/learn-basiljs)
 * [vogelino/basiliscriptum](https://github.com/vogelino/basiliscriptum)
 * [typografie-haw-hamburg/Typografie-programmieren](https://github.com/typografie-haw-hamburg/Typografie-programmieren)
-* [andyinabox/basiljs-template](https://github.com/andyinabox/basiljs-template)
 * [s4ac/WorkshopBasilJS](https://github.com/s4ac/WorkshopBasilJS)
 * [ffd8/audio2basiljs](https://github.com/ffd8/audio2basiljs)
 * [hynchl/the-golden-ratio-print](https://github.com/hynchl/the-golden-ratio-print)

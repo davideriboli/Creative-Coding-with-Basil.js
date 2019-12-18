@@ -1,0 +1,30 @@
+[submodule "01-BasilJs"]
+	path = 01-BasilJs
+	url = https://github.com/basiljs/basil.js.git
+[submodule "02-BasilJs-Refs-in-Jekill"]
+	path = 02-BasilJs-Refs-in-Jekill
+	url = https://github.com/basiljs/basiljs.github.io.git
+[submodule "03-BasilJs-Examples"]
+	path = 03-BasilJs-Examples
+	url = https://github.com/basiljs/examples.git
+[submodule "04-Learn-BasilJs"]
+	path = 04-Learn-BasilJs
+	url = https://github.com/oolong32/learn-basiljs.git
+[submodule "05-Scripts-Collection"]
+	path = 05-Scripts-Collection
+	url = https://github.com/vogelino/basiliscriptum.git
+[submodule "06-Typografie-Programmieren"]
+	path = 06-Typografie-Programmieren
+	url = https://github.com/typografie-haw-hamburg/Typografie-programmieren.git
+[submodule "07-Basil-Workshop"]
+	path = 07-Basil-Workshop
+	url = https://github.com/s4ac/WorkshopBasilJS.git
+[submodule "08-Audio-in-BasilJs"]
+	path = 08-Audio-in-BasilJs
+	url = https://github.com/ffd8/audio2basiljs.git
+[submodule "09-The-Golden-Ratio-Print"]
+	path = 09-The-Golden-Ratio-Print
+	url = https://github.com/hynchl/the-golden-ratio-print.git
+[submodule "10-Sample-Book"]
+	path = 10-Sample-Book
+	url = https://github.com/golanlevin/SimpleBasilBook.git
